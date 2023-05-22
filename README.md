@@ -1,6 +1,6 @@
 # Blog: Customizing Spring Boot Banner
 
-This repository contains the source code for the blog post "Customizing Spring Boot Banner" published on [Basics in Java Blog](https://basics-in-java.blogspot.com).
+This repository contains the source code for the blog post "Customizing Spring Boot Banner" published on [Basics in Java Blog](https://www.blogger.com/blog/post/edit/preview/1343841909128074063/2844407789701822333).
 
 In this blog post, we discuss how to customize the Spring Boot banner using the [patorjk.com](http://patorjk.com/software/taag/#p=display&f=Ogre&t=basics-in-java%0Ablogspot.com) website. The blog post provides step-by-step instructions and explanations to guide you through the process.
 
